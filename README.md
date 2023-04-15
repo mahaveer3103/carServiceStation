@@ -11,6 +11,9 @@
 ### Project Summary
 The purpose behind creating this app is to automate the car service station by taking input directly from customer about the car type and types of services he wanted to get from service station and in the end it will generate the invoice
 
+### The below video shows how the app works:
+
+https://user-images.githubusercontent.com/112773191/232202436-f0391428-cf9a-43df-8abe-b42b8ce1ddfe.mp4
 
 ### How operate this app:
 
@@ -20,3 +23,4 @@ The purpose behind creating this app is to automate the car service station by t
 ```
 git clone https://github.com/mahaveer3103/carServiceStation.git
 ```
+* Then you are good to go!
